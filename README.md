@@ -46,3 +46,5 @@ Check logs if things aren't working:
 tail -f /tmp/totalmix_osc.err (Errors)
 
 tail -f /tmp/totalmix_osc.out (Activity)
+
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
