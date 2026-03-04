@@ -1,6 +1,6 @@
 # TotalMix OSC Mouse Bridge
 
-A background macOS service that maps your mouse wheel to the RME TotalMix Master Fader using OSC.
+A background macOS service that maps your mouse wheel to the RME TotalMix Master Fader using OSC. Easily change the volume even if you can't find you TotalMix window!
 
 ## How to use:
 - **Ctrl + Scroll**: Adjust Master Volume.
