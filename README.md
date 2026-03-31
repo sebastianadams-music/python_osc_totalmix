@@ -48,3 +48,11 @@ tail -f /tmp/totalmix_osc.err (Errors)
 tail -f /tmp/totalmix_osc.out (Activity)
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+
+To update on your Mac system, just:
+
+launchctl unload ~/Library/LaunchAgents/com.user.python.osc.totalmix.plist
+
+
+launchctl load ~/Library/LaunchAgents/com.user.python.osc.totalmix.plist
